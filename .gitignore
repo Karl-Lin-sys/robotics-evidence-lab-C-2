@@ -1,0 +1,17 @@
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.exe
+*.obj
+*.o
+*.out
+*.bag
+*.db3
+*.prt*
+*.asm*
+*.env
+*.pdf
+*.doc*
